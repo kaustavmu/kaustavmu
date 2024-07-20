@@ -1,1 +1,1 @@
-Hello! I'm Kaustav Mukherjee, and I particularly love working on projects that mix software and hardware. I've got experience with robotics, some web development, and a computer vision.
+Hello! I'm Kaustav Mukherjee, a software engineer primarily focused on machine learning and computer vision. Here are scattered projects I have worked on throughout my undergraduate years.
